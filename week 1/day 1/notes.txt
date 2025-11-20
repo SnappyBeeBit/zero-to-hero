@@ -1,0 +1,30 @@
+Practice code not just learn code
+
+1 or 2 sections a week
+
+COURSE USES WSL + GCC
+
+The database project
+
+Database of Employees
+    Name
+    Address
+    Hours Worked
+CRUD and Search
+
+C Programming Language
+Algol
+Bpl 
+C!
+
+Used everywhere
+
+C's Rough Edges
+C can do everything, *everything*
+Footgun Language
+Gotta cleanup your messes
+Gotta make sure the buffers are the right size
+Gotta make sure the pointers are not null
+Gotta make sure the memory is allocated correctly
+Gotta make sure the memory is deallocated correctly
+Gotta make sure the memory is freed correctly
